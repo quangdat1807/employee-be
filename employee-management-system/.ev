@@ -1,6 +1,5 @@
-ENERGY=20 GeV
 
-spring.datasource.url=postgres://ec2-3-228-235-79.compute-1.amazonaws.com
+spring.datasource.url=postgres://ec2-3-228-235-79.compute-1.amazonaws.com:5432/d9nmv6he4bccks
 
 spring.datasource.username=mwyiwbnhemvdcj
 
